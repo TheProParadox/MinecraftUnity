@@ -1,5 +1,11 @@
-# Unity Minecraft Clone
+#Minecraft clone in Unity 3D
 
-A very basic minecraft clone made in 24 hours
+Tried to make Minecraft clone using Unity (1st Fully functioning Project)
 
-[Here's the youtube video showing the development](https://youtu.be/Nj8gt_92c-M)
+Includes ->
+<ul>
+  <li>Terrain And Chunk Generation</li>
+  <li>Perble Noise Algorithm</li>
+  <li>Three different blocks </li>
+  <li>Caves underground</li>
+</ul>
